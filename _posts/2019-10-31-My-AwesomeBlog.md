@@ -1,6 +1,6 @@
-
+---------
 theme: minima
-title: MyAwesome Blog
+title: " My Awesome Blog "
 Date: 2019-10-31
 author: Veemish
 email: veemish@gmail.com
@@ -14,3 +14,5 @@ twitter_username: veeursla
 github_username:  veemish
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+------------
