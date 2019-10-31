@@ -1,5 +1,6 @@
+
 theme: minima
-title: My Awesome Blog
+title: MyAwesome Blog
 Date: 2019-10-31
 author: Veemish
 email: veemish@gmail.com
