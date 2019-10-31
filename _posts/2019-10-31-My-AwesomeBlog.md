@@ -1,7 +1,7 @@
 ---------
+date: 2019-10-31
 theme: minima
 title: " My Awesome Blog "
-Date: 2019-10-31
 author: Veemish
 email: veemish@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
